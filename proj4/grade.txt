@@ -1,0 +1,34 @@
+  +--------------------------------------------------------+
+  |_25   25          README comment or file                |
+  |      _1_    1      Submitted a readme file             |
+  |      _5_    5      Description of assignment           |
+  |      _2_    2      Clean submission(no .o .d files)    |
+  |      _2_    2      Statement of help                   |
+  |      _10   10      Code Comments                       |
+  |      _5_    5      Regular commits and log entries     |
+  +--------------------------------------------------------+
+  |_20   20          Implementation                        |
+  |      _15   15      Compiles and executes w/o errors    |
+  |      _5_    5      Written in C/C++;                   |
+  +--------------------------------------------------------+
+  |_10   10          Input/output                          |
+  |      ___    0      Parses extra input in obj file      |
+  |      ___    0      Outputs valid obj image             |
+  |      _10   10      Outputs correct obj file            |
+  +--------------------------------------------------------+
+  |_45   45          Laplacian Estimate                    |
+  |      _35   35      Computes Correct Laplacian          |
+  |      _10   10      Avoids Vertex-Neighbor Tables       |
+  +--------------------------------------------------------+
+  |_25   25          Time Integration                      |
+  |      _15   15      Correct time integration            |
+  |      _10   10      Correct iteration                   |
+  +--------------------------------------------------------+
+  |___     50         (EX) Implicit Integration            |
+  |___     15         (Ex) Cotangent Weights               |
+  |___     15         (Ex) Volume Preservation             |
+  |___     25         (Ex) Biharmonic/Bilaplacian          |
+  |___     50         (Ex) Loop Subdivision                |
+  +--------------------------------------------------------+
+  |125                Total (of 125)                       |
+  +--------------------------------------------------------+
